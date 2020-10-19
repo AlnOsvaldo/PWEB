@@ -1,5 +1,24 @@
-div.container{
-margin-right: 0%;
- border:solid 10px red;  
- height: 50%;
+body{
+background-image: url("fondo.jpg");
+}
+
+.carousel img{
+object-fit: cover;
+max-height: 400px;
+
+
+}
+div.formulario{
+border: tomato;
+background-color: wheat;
+
+}
+div.forma{
+margin-bottom: 10px;
+margin-top: 10px;
+
+}
+.card{
+margin-top: 10px;
+
 }
